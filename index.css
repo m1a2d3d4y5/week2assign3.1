@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(198, 252, 231);
+}
+
+.circle3{
+    width: 0px;
+    height: 0px;
+    border: 150px;
+    border-radius: 50%;
+    border-style: solid;
+    border-right-color:transparent;
+     border-left-color: #fa5cb6;
+    border-bottom-color: #904bd1;
+    border-top-color: #47d4aa;
+     margin-left: 40%;
+    margin-top: 15%;
+}
